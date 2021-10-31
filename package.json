@@ -1,0 +1,11 @@
+{
+  "name": "jt_ip",
+  "version": "0.0.1",
+  "author": "Alexander Evgeafov",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "external-ip": "^2.3.1",
+    "lodash": "^4.17.4",
+    "nodemailer": "^6.7.0"
+  }
+}
